@@ -2,10 +2,19 @@
 
 # function that takes arguments
 def argumentFunc(arg1, arg2):
+  """
+  This is multi line documentation comment of the function.
+  Input arg1 string
+  Input arg2 string
+  """
   pring(arg1, " ", arg2)
   
 # function to return something
 def findCube(x)
+  """
+  Input x, integer
+  Returns cube of input x
+  """
   return x*x*x
   
 # Calling a function
